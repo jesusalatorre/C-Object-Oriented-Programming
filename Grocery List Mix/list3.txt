@@ -1,0 +1,10 @@
+[1] Hotdog
+[2] Hamburger
+[3] Cheeseburger
+[4] Cesar Salad
+[5] Turkey Leg
+[6] Stir Fry
+[7] Chicken
+[8] Sandwich
+[9] Bacon
+[10] Pork Rinds

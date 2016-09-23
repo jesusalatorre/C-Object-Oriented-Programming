@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1459793386 source:c:\users\chuy\desktop\cemasmas\oop partial 2 study\main.cpp
+	<iostream>
+	"header.h"
+
+1459806779 c:\users\chuy\desktop\cemasmas\oop partial 2 study\header.h
+	<math.h>
+

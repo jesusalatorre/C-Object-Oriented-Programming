@@ -1,0 +1,11 @@
+[2] Apple
+[2] Apple
+[5] Peach
+[10] Grapefruit
+[1] Carrot
+[5] Lettuce
+[10] Leek
+[9] Bacon
+[9] Bacon
+[9] Bacon
+[9] Bacon

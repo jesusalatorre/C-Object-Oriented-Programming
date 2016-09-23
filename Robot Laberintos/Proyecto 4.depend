@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1462765290 source:c:\users\chuy\desktop\cemasmas\proyecto 4\main.cpp
+	<iostream>
+	"Robot.h"
+	<string>
+	<cstdlib>
+
+1462765483 c:\users\chuy\desktop\cemasmas\proyecto 4\robot.h
+	<fstream>
+	<string>
+	<iostream>
+

@@ -1,0 +1,10 @@
+[1] Banana
+[2] Apple
+[3] Melon
+[4] Mango
+[5] Peach
+[6] Grape
+[7] Watermelon
+[8] Pear
+[9] Orange
+[10] Grapefruit

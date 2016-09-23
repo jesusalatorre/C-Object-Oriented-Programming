@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1462824138 source:c:\users\chuy\desktop\cemasmas\templates\main.cpp
+	<iostream>
+	"class.h"
+
+1462824167 c:\users\chuy\desktop\cemasmas\templates\class.h
+	<iostream>
+	<string>
+

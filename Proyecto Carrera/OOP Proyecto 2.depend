@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1458171160 source:c:\users\chuy\desktop\cemasmas\oop proyecto 2\main.cpp
+	<iostream>
+	"header.h"
+	<time.h>
+	<stdlib.h>
+
+1458171200 c:\users\chuy\desktop\cemasmas\oop proyecto 2\header.h
+	<iostream>
+	<string.h>
+

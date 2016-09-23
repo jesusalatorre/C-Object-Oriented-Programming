@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1461608821 source:c:\users\chuy\desktop\cemasmas\proyecto 3\main.cpp
+	<iostream>
+	"Ensamblador.h"
+	"CPU.h"
+	<fstream>
+	<string>
+
+1461546839 c:\users\chuy\desktop\cemasmas\proyecto 3\ensamblador.h
+	<iostream>
+	<string>
+	<fstream>
+
+1461556292 c:\users\chuy\desktop\cemasmas\proyecto 3\cpu.h
+	<string>
+	<fstream>
+	<iostream>
+	<stdlib.h>
+

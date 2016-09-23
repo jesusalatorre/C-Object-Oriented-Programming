@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1460697754 source:c:\users\chuy\desktop\cemasmas\tarea parcial 3\main.cpp
+	<iostream>
+	"header.h"
+	<fstream>
+	<string>
+
+1460697754 c:\users\chuy\desktop\cemasmas\tarea parcial 3\header.h
+	<string>
+	<fstream>
+

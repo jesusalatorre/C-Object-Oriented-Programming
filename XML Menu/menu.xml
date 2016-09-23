@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+	<platillo>
+		<descripcion>Taquitos</descripcion>
+		<tipo>Mexicana</tipo>
+		<precio>$10</precio>
+	</platillo>
+	<platillo>
+		<descripcion>Hamburguesas</descripcion>
+		<tipo>Americana</tipo>
+		<precio>$20</precio>
+	</platillo>
+	<platillo>
+		<descripcion>Pizza</descripcion>
+		<tipo>Europea</tipo>
+		<precio>$50</precio>
+	</platillo>
+	<platillo>
+		<descripcion>Chalupas</descripcion>
+		<tipo>Mexicana</tipo>
+		<precio>$20</precio>
+	</platillo>
+	<platillo>
+		<descripcion>Enchiladas</descripcion>
+		<tipo>Mexicana</tipo>
+		<precio>$70</precio>
+	</platillo>
+	<platillo>
+		<descripcion>Nuggets</descripcion>
+		<tipo>Americana</tipo>
+		<precio>$35</precio>
+	</platillo>
+</menu>

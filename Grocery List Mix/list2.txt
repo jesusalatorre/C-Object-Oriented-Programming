@@ -1,0 +1,10 @@
+[1] Carrot
+[2] Broccoli
+[3] Beat
+[4] Peas
+[5] Lettuce
+[6] Corn
+[7] Gourd
+[8] Potato
+[9] Raddish
+[10] Leek

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453765020 source:c:\users\chuy\desktop\cemasmas\oop ex 4\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
